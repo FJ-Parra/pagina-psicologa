@@ -8,7 +8,8 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f7f3ef;
     color: #4a4a4a;
-    line-height: center;
+    line-height: 1.6;
+    text-align: center;
 }
 
 header {
@@ -40,6 +41,8 @@ header h1 {
     padding: 12px 24px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .boton:hover {
@@ -54,4 +57,53 @@ main {
 main h2 {
     color: #7a9e7e;
     margin-bottom: 10px;
+}
+
+.formulario {
+    max-width: 500px;
+    margin: 30px auto 0;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgb(0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-align: left;
+}
+
+.formulario label .formulario legend {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.formulario input,
+.formulario select,
+.formulario textarea {
+    padding: 10px;
+    border: 1 px solid #ccc;
+    border-radius: 1rem;
+    font-family: inherit;
+}
+
+.formulario input:focus,
+.formulario select:focus,
+.formulario textarea:focus {
+    outline: none;
+    border-color: #7a9e7e;
+    box-shadow: 0 0 0 3px rgb(122, 158, 126 0.2);
+}
+
+.formulario fieldset {
+    border: none;
+}
+
+.formulario fieldset label,
+.formulario .check {
+    font-weight: normal;
+    margin-right: 15px;
+}
+
+.formulario .boton {
+    margin-top: 20px;
 }
