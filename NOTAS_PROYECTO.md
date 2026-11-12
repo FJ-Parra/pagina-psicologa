@@ -8,7 +8,7 @@
 ## Estado actual
 - [x] index.html: página de inicio con menú de 6 botones
 - [x] reservas.html: formulario de reservas (todavía no envía nada)
-- [ ] sobre-mi.html: en curso (12/11)
+- [x] sobre-mi.html: página Sobre mí completada (12/11) con foto, presentación, tarjetas y estilos responsivos
 - [ ] Tipos de consulta
 - [ ] Precios
 - [ ] Eventos
