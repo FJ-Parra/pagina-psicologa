@@ -12,7 +12,7 @@
 - [ ] Tipos de consulta
 - [ ] Precios
 - [ ] Eventos
-- [ ] Contacto
+- [x] contacto.html: página de Contacto completada (17/11) con datos de ubicación, enlaces interactivos tel/mailto y estilos integrados
 
 ## Plan para el futuro (backend)
 - **Lenguaje:** Python (Flask o Django, por decidir).
