@@ -24,6 +24,8 @@ header h1 {
 .subtitulo {
     margin-top: 10px;
     font-style: italic;
+    color: #f19ee6;
+    font-size: 1.5rem;
 }
 
 .menu {

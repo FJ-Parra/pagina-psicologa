@@ -9,7 +9,7 @@
 - [x] index.html: página de inicio con menú de 6 botones
 - [x] reservas.html: formulario de reservas (todavía no envía nada)
 - [x] sobre-mi.html: página Sobre mí completada (12/11) con foto, presentación, tarjetas y estilos responsivos
-- [ ] Tipos de consulta
+- [x] consultas.html: página de Tipos de consulta completada (18/11) con modalidades individual, familiar y en grupo, y menú de navegación unificado en toda la web
 - [ ] Precios
 - [ ] Eventos
 - [x] contacto.html: página de Contacto completada (17/11) con datos de ubicación, enlaces interactivos tel/mailto y estilos integrados
