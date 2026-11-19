@@ -6,13 +6,15 @@
 - Los textos de la web son de ejemplo por ahora.
 
 ## Estado actual
-- [x] index.html: página de inicio con menú de 6 botones
+- [x] index.html: página de inicio con menú de navegación unificado
 - [x] reservas.html: formulario de reservas (todavía no envía nada)
 - [x] sobre-mi.html: página Sobre mí completada (12/11) con foto, presentación, tarjetas y estilos responsivos
-- [x] consultas.html: página de Tipos de consulta completada (18/11) con modalidades individual, familiar y en grupo, y menú de navegación unificado en toda la web
-- [ ] Precios
-- [ ] Eventos
+- [x] consultas.html: página de Tipos de consulta completada (18/11) con modalidades individual, familiar y en grupo
+- [x] precios.html: página de Bonos y Precios completada (19/11) con tarifas, bonos, llamada informativa y ajuste de estilos (.precio y .tarjeta .boton)
+- [x] eventos.html: página de Eventos y Talleres completada (19/11) con talleres para familias, estudiantes, charlas para centros y enlaces directos a WhatsApp
 - [x] contacto.html: página de Contacto completada (17/11) con datos de ubicación, enlaces interactivos tel/mailto y estilos integrados
+
+> **Hito alcanzado - Fin de Fase 1 (19/11):** ¡Toda la estructura visual (HTML + CSS) y la navegación de las 7 páginas están 100% terminadas, estilizadas y conectadas sin enlaces rotos!
 
 ## Plan para el futuro (backend)
 - **Lenguaje:** Python (Flask o Django, por decidir).
